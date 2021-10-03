@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "공사일"
   avatar           : "/image/profile/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "마음에 드는 색감을 찾기 위해 오늘도 공부하고 있습니다"
+  bio              : "마음에 드는 색감을 찾기 위해<br>오늘도 공부하고 있습니다"
   location         : "Republic of Korea"
   email            :
   links:
