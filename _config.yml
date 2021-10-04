@@ -20,7 +20,7 @@ title                    : "공사일의 색감공부"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "공사일"
-description              : "맘에 드는 색감을 찾기 위해 같이 공부합니다"
+description              : "스마트폰으로 간단하게 보정하는 색감 강의 블로그"
 url                      : "zer041ne.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/zer041ne/zer041ne.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "공사일"
   avatar           : "/images/profile/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "마음에 드는 색감을 찾기 위해<br>오늘도 공부하고 있습니다"
+  bio              : "사진으로 기록하는<br>21세기 그림일기"
   location         : "Republic of Korea"
   email            :
   links:
