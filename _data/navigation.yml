@@ -1,5 +1,9 @@
 #main links
 
 main:
-  - title: "Home"
-    url: https://0f1.kr/
+   - title: "Home"
+     url: https://0f1.kr/
+   - title: "Categories"
+     url: /categories/
+   - title: "About"
+     url: /about/
