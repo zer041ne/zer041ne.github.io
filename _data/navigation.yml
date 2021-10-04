@@ -3,3 +3,5 @@
 main:
   - title: "Home"
     url: https://0f1.kr
+  - title: "보정 강의"
+    url: /lectures/
