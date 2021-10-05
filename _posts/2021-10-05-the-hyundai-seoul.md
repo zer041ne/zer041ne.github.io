@@ -9,7 +9,7 @@ published: true
 toc: true
 ---
 
-<center><iframe frameborder="0" class="juxtapose" width="560" height="700" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=5232ac9a-25e4-11ec-abb7-b9a7ff2ee17c"></iframe></center>
+<center><iframe frameborder="0" class="juxtapose" width="100%" height="700" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=5232ac9a-25e4-11ec-abb7-b9a7ff2ee17c"></iframe></center>
 
 
 
@@ -19,7 +19,7 @@ toc: true
 <br>
 <br>
 
-## 들어가기에 앞서..<br><br>
+## 들어가기에 앞서..<br>
 
 2021년 3월, 더현대 서울에서 촬영한 사운드 포레스트입니다.<br><br>
 
