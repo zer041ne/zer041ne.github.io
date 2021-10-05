@@ -9,7 +9,7 @@ published: true
 toc: true
 ---
 
-<center><iframe frameborder="0" class="juxtapose" width="100%" height="700" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=5232ac9a-25e4-11ec-abb7-b9a7ff2ee17c"></iframe></center>
+<center><iframe frameborder="0" class="juxtapose" width="100%" height="100%" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=5232ac9a-25e4-11ec-abb7-b9a7ff2ee17c"></iframe></center>
 <center><i><span style="color:gray"> Apple iPhone XS｜52mm｜ƒ2.4｜1/82s｜ISO 16｜여의도 더현대 서울</span></i></center>
 
 <br>
@@ -28,10 +28,11 @@ toc: true
 
 ## 1. 밝기
 
-> ℹ️ 노출 +1 대비 -10
-> 밝은 영역 -54 어두운 영역 +91 
+> ℹ️ 노출 +1 대비 -10<br>
+> 밝은 영역 -54 어두운 영역 +91<br>
 > 흰색 계열 -10 / 검정 계열 -17
 
-![IMG_8558](/Users/psj/Documents/GitHub/zer041ne.github.io/images/2021-10-03-color-1/IMG_8558.jpg){: width="100%" height="100%"}
+![the-hyundai-seoul-lights](../images/2021-10-05-the-hyundai-seoul/the-hyundai-seoul-lights.jpg){: width="100%" height="100%"}
 
 내용내용
+
