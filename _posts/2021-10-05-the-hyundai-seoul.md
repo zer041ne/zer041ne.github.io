@@ -1,13 +1,13 @@
 ---
 layout: single
-title:"라이트룸 사진보정 / 더현대서울에서 아이폰으로 담은 실내 사진 보정하기"
-description:"밝고 깔끔한 느낌의 실내 사진"
-published: true
-toc: true
+title: 라이트룸 사진보정 / 더현대서울에서 아이폰으로 담은 실내 사진 보정하기
+description:밝고 깔끔한 느낌의 실내 사진
 categories:
   - lecture
 tags:
   - Lightroom
+published: true
+toc: true
 
 ---
 
