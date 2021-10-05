@@ -1,12 +1,14 @@
 ---
 layout: single
-title:  "라이트룸 사진보정 / 더현대서울에서 아이폰으로 담은 실내 사진 보정하기"
+title:"라이트룸 사진보정 / 더현대서울에서 아이폰으로 담은 실내 사진 보정하기"
+description:"밝고 깔끔한 느낌의 실내 사진"
+published: true
+toc: true
 categories:
   - lecture
 tags:
   - Lightroom
-published: true
-toc: true
+
 ---
 
 <center><iframe frameborder="0" class="juxtapose" width="100%" height="600" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=5232ac9a-25e4-11ec-abb7-b9a7ff2ee17c"></iframe></center>
