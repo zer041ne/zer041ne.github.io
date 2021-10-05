@@ -9,17 +9,17 @@ published: true
 toc: true
 ---
 
-<center></center><iframe frameborder="0" class="juxtapose" width="560" height="700" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=5232ac9a-25e4-11ec-abb7-b9a7ff2ee17c"></iframe></center>
+<center><iframe frameborder="0" class="juxtapose" width="560" height="700" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=5232ac9a-25e4-11ec-abb7-b9a7ff2ee17c"></iframe></center>
 
 
 
-<center> <span style="color:gray"> Apple iPhone XS｜52mm｜ƒ2.4｜1/82s｜ISO 16｜여의도 더현대 서울 </center> </span>
+<center><span style="color:gray"> Apple iPhone XS｜52mm｜ƒ2.4｜1/82s｜ISO 16｜여의도 더현대 서울  </span></center>
 
 <br>
 <br>
 <br>
 
-##들어가기에 앞서..<br><br>
+## 들어가기에 앞서..<br><br>
 
 2021년 3월, 더현대 서울에서 촬영한 사운드 포레스트입니다.<br><br>
 
@@ -29,7 +29,7 @@ toc: true
 
 지하 1층과 2층의 편집샵과 팝업 스토어, 식당도 좋지만 제일 추천하고 싶은 장소는 역시 5층과 6층 사운드 포레스트였기 때문에 집에 오자마자 바로 촬영 팁과 보정법을 공유했어요. <br>더현대 서울이 한창 인기가 많던 시기라 많은 분들이 저장하고 공유해주셔서 전체 게시물 중에서 가장 많이 사랑받은 게시물이라 블로그에 더욱 자세히 적어보려고 합니다.<br><br>
 
-##1. 밝기
+## 1. 밝기
 
 ㅇㅇ
 
