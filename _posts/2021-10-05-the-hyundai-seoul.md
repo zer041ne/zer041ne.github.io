@@ -26,7 +26,7 @@ toc: true
 
 채광과 조경을 많이 신경 쓴 덕분인지 백화점보단 먹고 마시며 휴식하는 실내 정원에 방문한 기분이었어요☺️ <br>덕분에 예쁜 카페에 온 것처럼 이곳저곳 사진을 찍고 기록하며 놀 수 있었습니다.<br><br>
 
-6층에 있는 포토스팟에서 `줌을 살짝 땡겨서` 찍으면 사운드 포레스트를 예쁘게 담을 수 있어요.<br>더현대 서울이 한창 인기가 많던 시기라 많은 분들이 저장하고 공유해 주셔서 전체 게시물 중에서 가장 많이 사랑받은 게시물이라 블로그에 더욱 자세히 적어보려고 합니다.<br><br>
+6층에 있는 포토스팟에서 **줌을 살짝 땡겨서 찍으면** 사운드 포레스트를 예쁘게 담을 수 있어요.<br>더현대 서울이 한창 인기가 많던 시기라 많은 분들이 저장하고 공유해 주셔서 전체 게시물 중에서 가장 많이 사랑받은 게시물이라 블로그에 더욱 자세히 적어보려고 합니다.<br><br>
 
 ## 1. 밝기
 
@@ -39,7 +39,7 @@ toc: true
 {: .notice--info}
 
 <br>
-![the-hyundai-seoul-lights](/images/2021-10-05-the-hyundai-seoul/the-hyundai-seoul-lights.jpeg){: width="75%" height="75%"}{: .align-center}
+![the-hyundai-seoul-lights](/images/2021-10-05-the-hyundai-seoul/the-hyundai-seoul-lights.jpeg){: .align-center}
 <br>
 ### 1-1. 노출
 사진이 살짝 어둡게 나와 노출을 올려 전체적으로 밝게 만들었어요.<br>
@@ -49,7 +49,7 @@ toc: true
 실내 사진에 어울리는 맑은 이미지를 만들 수 있습니다.<br><br>
 
 
-![the-hyundai-seoul-lights-curve](/images/2021-10-05-the-hyundai-seoul/the-hyundai-seoul-lights-curve.jpeg){: width="75%" height="75%"}{: .align-center}
+![the-hyundai-seoul-lights-curve](/images/2021-10-05-the-hyundai-seoul/the-hyundai-seoul-lights-curve.jpeg){: .align-center}
 
 <br>
 ### 1-2. 톤 커브
@@ -73,7 +73,7 @@ toc: true
 {: .notice--info}
 <br>
 
-![the-hyundai-seoul-colors](/images/2021-10-05-the-hyundai-seoul/the-hyundai-seoul-colors.jpeg){: width="75%" height="75%"}{: .align-center}
+![the-hyundai-seoul-colors](/images/2021-10-05-the-hyundai-seoul/the-hyundai-seoul-colors.jpeg){: .align-center}
 
 <br>
 ### 2-1. 색온도 & 색조
@@ -101,7 +101,7 @@ toc: true
 {: .notice--info}
 <br>
 
-![the-hyundai-seoul-colors-curve](/images/2021-10-05-the-hyundai-seoul/the-hyundai-seoul-colors-curve.jpeg){: width="75%" height="75%"}{: .align-center}
+![the-hyundai-seoul-colors-curve](/images/2021-10-05-the-hyundai-seoul/the-hyundai-seoul-colors-curve.jpeg){: .align-center}
 
 <br>
 마지막으로 명암별 색보정으로 원하는 색을 추가합니다.  
