@@ -11,7 +11,7 @@ toc: true
 
 ---
 
-<center><iframe frameborder="0" class="juxtapose" width="100%" height="600" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=bfa8368e-263c-11ec-abb7-b9a7ff2ee17c"></iframe></center>
+<center><iframe frameborder="0" class="juxtapose" width="450" height="600" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=bfa8368e-263c-11ec-abb7-b9a7ff2ee17c"></iframe></center>
 <center><i><span style="color:gray"> Apple iPhone XS｜52mm｜ƒ2.4｜1/82s｜ISO 16｜여의도 더현대 서울</span></i></center>
 
 <br>
