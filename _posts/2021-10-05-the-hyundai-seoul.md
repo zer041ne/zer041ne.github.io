@@ -35,7 +35,9 @@ toc: true
 > 밝은 영역 -54 어두운 영역 +91<br>
 > 흰색 계열 -10 / 검정 계열 -17
 
-<center>![the-hyundai-seoul-lights](/images/2021-10-05-the-hyundai-seoul/the-hyundai-seoul-lights.jpg){: width="500" height="100%"}</center>
 
-내용내용
+
+```text
+<p align="center"><img src="/images/2021-10-05-the-hyundai-seoul/the-hyundai-seoul-lights.jpg" height="480px" width="800px"></p>
+```
 
