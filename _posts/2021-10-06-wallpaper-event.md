@@ -30,7 +30,7 @@ published: true
 
 이번엔 <u>스마트폰, 태블릿, 노트북</u> 별로 사이즈를 맞추어 준비했어요.<br><br>
 
-[배경화면 다운로드 바로가기](https://bit.ly/3lcQmek)
+[▶️배경화면 다운로드 바로가기](https://bit.ly/3lcQmek)
 
 <br>
 
