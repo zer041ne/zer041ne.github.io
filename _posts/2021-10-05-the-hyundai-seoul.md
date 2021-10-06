@@ -6,7 +6,7 @@ categories:
   - lecture
 tags:
   - Lightroom
-published: false
+published: true
 toc: true
 
 ---
@@ -30,14 +30,53 @@ toc: true
 
 ## 1. 밝기
 
+<br>
+
 ℹ️ **밝기**<br/>
 노출 +1 대비 -10<br/>
 밝은 영역 -54 어두운 영역 +91<br/>
 흰색 계열 -10 검정  계열 -17 {: .notice--info}
 
+<br>
+
+<p align="center"><img src="/images/2021-10-05-the-hyundai-seoul/the-hyundai-seoul-lights.jpg" height="100%" width="100%"></p>
 
 <br>
 
-<p align="center"><img src="/images/2021-10-05-the-hyundai-seoul/the-hyundai-seoul-lights.jpg" height="480px" width="800px"></p>
+사진이 살짝 어둡게 나와 노출을 올려 전체적으로 밝게 만들었어요.<br>
 
-ㅇㅇㅇ
+추가로 밝은 영역을 낮추고 어두운 영역을 높여서 대비를 줄이면<br>
+
+실내 사진에 어울리는 맑은 이미지를 만들 수 있습니다.<br><br>
+
+
+
+<p align="center"><img src="/images/2021-10-05-the-hyundai-seoul/the-hyundai-seoul-lights-curve.jpg" height="100%" width="100%"></p>
+
+<br>
+
+추가로 톤 곡선을 다음과 같이 조절했습니다.<br>
+
+맨 왼쪽 조정점을 살짝 위로 올려주면 사진에 완전한 블랙이 사라져 대비가 더 줄어든 느낌을 만들 수 있어요.<br>
+
+이미 밝기 영역에서 어느 정도 밝기를 조절했기 때문에 크게 바꾸진 않았습니다.<br>
+
+개인 기호에 맞게 조정점을 위 아래로 움직여서 원하는 밝기를 만들어보세요!<br>
+
+<br>
+
+## 2. 색상
+
+<br>
+ℹ️ **색상**<br/>
+색온도 +4 색조 -2<br/>
+생동강 +5 채도 0 {: .notice--info}
+<br>
+
+
+<p align="center"><img src="/images/2021-10-05-the-hyundai-seoul/the-hyundai-seoul-lights-colors.jpg" height="100%" width="100%"></p>
+
+<br>
+
+
+
