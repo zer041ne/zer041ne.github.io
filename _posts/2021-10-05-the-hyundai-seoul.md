@@ -39,9 +39,7 @@ toc: true
 {: .notice--info}
 
 <br>
-
-<p align="center"><img src="/images/2021-10-05-the-hyundai-seoul/the-hyundai-seoul-lights.jpg" height="100%" width="100%"></p>
-
+![the-hyundai-seoul-lights](/images/2021-10-05-the-hyundai-seoul/the-hyundai-seoul-lights.jpg){: .align-center}
 <br>
 
 사진이 살짝 어둡게 나와 노출을 올려 전체적으로 밝게 만들었어요.<br>
@@ -51,8 +49,7 @@ toc: true
 실내 사진에 어울리는 맑은 이미지를 만들 수 있습니다.<br><br>
 
 
-
-<p align="center"><img src="/images/2021-10-05-the-hyundai-seoul/the-hyundai-seoul-lights-curve.jpg" height="100%" width="100%"></p>
+![the-hyundai-seoul-lights-curve](/images/2021-10-05-the-hyundai-seoul/the-hyundai-seoul-lights-curve.jpg){: .align-center}
 
 <br>
 
@@ -75,8 +72,7 @@ toc: true
 {: .notice--info}
 <br>
 
-
-<p align="center"><img src="/images/2021-10-05-the-hyundai-seoul/the-hyundai-seoul-lights-colors.jpg" height="100%" width="100%"></p>
+![the-hyundai-seoul-colors](/images/2021-10-05-the-hyundai-seoul/the-hyundai-seoul-colors.jpg){: .align-center}
 
 <br>
 
