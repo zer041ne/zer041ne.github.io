@@ -39,7 +39,7 @@ toc: true
 {: .notice--info}
 
 <br>
-![the-hyundai-seoul-lights](/images/2021-10-05-the-hyundai-seoul/the-hyundai-seoul-lights.jpeg){: .align-center}
+![the-hyundai-seoul-lights](/images/2021-10-05-the-hyundai-seoul/the-hyundai-seoul-lights.jpeg){: width="75%" height="75%"}{: .align-center}
 <br>
 ### 1-1. 노출
 사진이 살짝 어둡게 나와 노출을 올려 전체적으로 밝게 만들었어요.<br>
@@ -49,7 +49,7 @@ toc: true
 실내 사진에 어울리는 맑은 이미지를 만들 수 있습니다.<br><br>
 
 
-![the-hyundai-seoul-lights-curve](/images/2021-10-05-the-hyundai-seoul/the-hyundai-seoul-lights-curve.jpeg){: .align-center}
+![the-hyundai-seoul-lights-curve](/images/2021-10-05-the-hyundai-seoul/the-hyundai-seoul-lights-curve.jpeg){: width="75%" height="75%"}{: .align-center}
 
 <br>
 ### 1-2. 톤 커브
@@ -59,7 +59,7 @@ toc: true
 
 이미 밝기 영역에서 어느 정도 밝기를 조절했기 때문에 크게 바꾸진 않았습니다.<br>
 
-개인 기호에 맞게 조정점을 위아래로 움직여서 여러분에 맘에 드는 밝기를 만들어보세요!<br>
+개인 기호에 맞게 조정점을 위아래로 움직여서 여러분의 맘에 드는 밝기를 만들어보세요!<br>
 
 <br>
 
@@ -73,7 +73,7 @@ toc: true
 {: .notice--info}
 <br>
 
-![the-hyundai-seoul-colors](/images/2021-10-05-the-hyundai-seoul/the-hyundai-seoul-colors.jpeg){: .align-center}
+![the-hyundai-seoul-colors](/images/2021-10-05-the-hyundai-seoul/the-hyundai-seoul-colors.jpeg){: width="75%" height="75%"}{: .align-center}
 
 <br>
 ### 2-1. 색온도 & 색조
@@ -101,7 +101,7 @@ toc: true
 {: .notice--info}
 <br>
 
-![the-hyundai-seoul-colors-curve](/images/2021-10-05-the-hyundai-seoul/the-hyundai-seoul-colors-curve.jpeg){: .align-center}
+![the-hyundai-seoul-colors-curve](/images/2021-10-05-the-hyundai-seoul/the-hyundai-seoul-colors-curve.jpeg){: width="75%" height="75%"}{: .align-center}
 
 <br>
 마지막으로 명암별 색보정으로 원하는 색을 추가합니다.  
