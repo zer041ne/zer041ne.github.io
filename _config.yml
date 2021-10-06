@@ -95,8 +95,8 @@ social:
 analytics:
   provider               : "goolge-gtag" #false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : #"G-WVLKY4N1W1"
-    measurement_id: "G-WVLKY4N1W1"
+    measurement_id       : "G-NEPXMLZM1H"
+    
     anonymize_ip         : false #(default)
 
 
