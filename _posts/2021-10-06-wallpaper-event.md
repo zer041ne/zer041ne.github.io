@@ -14,7 +14,7 @@ published: true
 
 스마트폰으로 간단하게 보정하는 색감 강의에 대해 보다 자세한 설명을 위해 블로그를 개설했어요!<br>
 
-블로그 홍보도 할 겸 오랜만에 배경화면을 공유해 볼까 해요.<br>
+블로그 홍보도 할 겸 오랜만에 배경화면 나눔을 준비했습니다.<br>
 
 ![wallpaper-event-mockup](/images/2021-10-06-wallpaper/wallpaper-event-mockup.jpg)
 
