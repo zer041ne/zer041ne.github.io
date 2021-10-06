@@ -30,15 +30,16 @@ toc: true
 
 ## 1. 밝기
 
-ℹ️ **밝기** <br>
-노출 +1 대비 -10<br>
-밝은 영역 -54 어두운 영역 +91<br>
-흰색 계열 -10 / 검정 계열 -17{: .notice--primary} <br><br>
+```bash
+ℹ️ 밝기
+노출 +1 대비 -10
+밝은 영역 -54 어두운 영역 +91
+흰색 계열 -10 / 검정 계열 -17
+```
 
+<br>
 
-
-
-
+<br>
 
 <p align="center"><img src="/images/2021-10-05-the-hyundai-seoul/the-hyundai-seoul-lights.jpg" height="480px" width="800px"></p>
 
