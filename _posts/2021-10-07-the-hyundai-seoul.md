@@ -8,8 +8,7 @@ tags:
   - Lightroom
 published: true
 toc: true
-header:
-  teaser:/images/teaser/the-hyundai-seoul-after.jpeg
+
 ---
 
 <center><iframe frameborder="0" class="juxtapose" width="300" height="400" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=409943ea-263e-11ec-abb7-b9a7ff2ee17c"></iframe></center>
