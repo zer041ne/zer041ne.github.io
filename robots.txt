@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zer041ne.github.io/sitemap.xml
