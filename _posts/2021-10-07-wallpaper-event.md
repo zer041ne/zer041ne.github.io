@@ -7,7 +7,8 @@ categories:
 tags:
   - event
 published: true
-
+header:
+  teaser: "/images/2021-10-06-wallpaper/wallpaper-event-mockup.jpg"
 ---
 
 안녕하세요, **공사일**입니다🙋‍♂️ <br><br>
