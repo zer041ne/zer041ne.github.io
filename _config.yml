@@ -20,7 +20,7 @@ title                    : "공사일의 색감공부"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "공사일"
-description              : "스마트폰으로 간단하게 보정하는 색감 강의를 공유하는 블로그"
+description              : "스마트폰으로 간단하게 따라하는 사진 보정법을 공유하는 블로그"
 url                      : "https://0f1.kr" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/zer041ne/zer041ne.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
