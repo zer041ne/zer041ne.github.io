@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "라이트룸 색감 보정 l 더현대서울에서 아이폰으로 담은 실내 사진 보정하기"
+title: "라이트룸 사진 보정 l 더현대서울에서 아이폰으로 담은 실내 사진 보정하기"
 excerpt: "🏛 밝고 깔끔한 느낌의 실내 사진을 만들어봅시다"
 categories:
   - lecture

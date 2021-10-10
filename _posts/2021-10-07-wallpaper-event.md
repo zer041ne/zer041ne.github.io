@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "10월의 배경화면을 공유해드려요"
-excerpt: " "
+excerpt: "스마트폰/태블릿/PC를 위한 <프라하의 낮>"
 categories:
   - notice
 tags:
