@@ -14,7 +14,7 @@ header:
 
 ---
 
-<center><iframe frameborder="0" class="juxtapose" width="100%" height="600" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=91ef7bfc-2a6b-11ec-abb7-b9a7ff2ee17c"></iframe></center>
+<center><iframe frameborder="0" class="juxtapose" width="100%" height="400" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=91ef7bfc-2a6b-11ec-abb7-b9a7ff2ee17c"></iframe></center>
 <center><i><span style="color:gray"> Sony α6400｜48mm｜ƒ6.3｜1/400s｜ISO 160｜로마 스페인 광장</span></i></center>
 <br>
 <br>
