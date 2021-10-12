@@ -14,7 +14,7 @@ header:
 
 ---
 
-<center><iframe frameborder="0" class="juxtapose" width="400" height="500" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=3b32c1bc-2b2d-11ec-abb7-b9a7ff2ee17c"></iframe></center>
+<center><iframe frameborder="0" class="juxtapose" width="380" height="475" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=3b32c1bc-2b2d-11ec-abb7-b9a7ff2ee17c"></iframe></center>
 <center><i><span style="color:gray"> Sony α6400｜50mm｜ƒ5.6｜1/1600s｜ISO 100｜천안시 카페 이숲</span></i></center>
 <br>
 <br>
