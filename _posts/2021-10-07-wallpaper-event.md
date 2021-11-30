@@ -6,7 +6,7 @@ categories:
   - notice
 tags:
   - event
-published: true
+published: false
 comments: true
 header:
   teaser: "/images/2021-10-06-wallpaper/wallpaper-event-mockup.jpg"
