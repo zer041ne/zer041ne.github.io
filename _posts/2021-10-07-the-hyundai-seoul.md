@@ -6,7 +6,7 @@ categories:
   - lecture
 tags:
   - Lightroom
-published: true
+published: false
 toc: true
 comments: true
 header:
